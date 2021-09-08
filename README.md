@@ -6,8 +6,8 @@
 
  ### Lignt Screen
 
- ![lightScreen](..\img\pageWhite.PNG)
+ ![lightScreen](img\pageWhite.PNG)
 
   ### Dark Screen
 
- ![DarkScreen](..\img\pageBlack.PNG)
+ ![DarkScreen](img\pageBlack.PNG)
